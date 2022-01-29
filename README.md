@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fampiyush
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ and data structures/algo
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects made with c++
 - 📫 Email - piyushgupta941d@gmail.com
 
