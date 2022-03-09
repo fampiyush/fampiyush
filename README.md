@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fampiyush
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on projects made with c++
+- 💞️ I’m looking to collaborate on full stack projects...
 - 📫 Email - piyushgupta941d@gmail.com
 
 <!---
