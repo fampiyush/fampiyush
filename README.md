@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fampiyush
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working on some projects using MERN stack
-- 💞️ I’m looking to collaborate on full stack projects...
+- 👀 I’m a Full Stack Development
+- 🌱 I’m currently working on some SAAS projects
+- 💞️ I’m looking to collaborate on full-stack projects...
 - 📫 Email - piyushgupta941d@gmail.com
 
 <!---
