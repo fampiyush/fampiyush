@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fampiyush
-- Love building stuff...
+- I build stuff...
 
 <!---
 fampiyush/fampiyush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
