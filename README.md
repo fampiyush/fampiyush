@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fampiyush
 - I build stuff...
-- Have a work for me? Contact - piyushgupta941d@gmail.com
+- Reach me out at piyushgupta941d@gmail.com
 
 <!---
 fampiyush/fampiyush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
